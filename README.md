@@ -1,0 +1,1 @@
+The goal of this project is to analyze North Macedonia's GDP data. We'll load and preprocess the data using Python's Pandas package, then compute GDP and use pie charts, boxplots, and scatter plots to show patterns.
